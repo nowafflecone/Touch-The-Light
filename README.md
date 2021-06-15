@@ -1,2 +1,2 @@
-# nowaffle-hub
-a little place where i can put my stupid coding projects
+# "Touch the Light" - WIP
+a place for my stupid RPG to go
